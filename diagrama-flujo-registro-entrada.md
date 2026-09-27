@@ -1,6 +1,8 @@
 
 ## Diagrama Mermaid
 
+## Diagrama Mermaid
+
 ```mermaid
 flowchart TD
     A([Inicio: Usuario abre la aplicacion]) --> B[Capturar hora de entrada y coordenadas]
@@ -16,6 +18,3 @@ flowchart TD
     classDef advertencia fill:#FF6961,stroke:#8B0000,color:#000000,font-weight:bold
     class E ok
     class F advertencia
-```
-
-
